@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kadlae Aniketh</h1>
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI Explorer | 🌐 Web Innovator</h3>
-<p align="center">Curious mind with a passion for AI, LLMs, and intelligent web systems. I enjoy blending cutting-edge machine learning with robust frontend and backend technologies to craft seamless, smart digital experiences.</p>
+<p align="center">Hi 👋, I'm Kadlae Aniketh - have a strong passion for Artificial Intelligence, Large Language Models (LLMs), and smart web systems. I enjoy building scalable digital tools that combine Generative AI with modern front-end and back-end technologies. My aim is to create smooth, user-friendly experiences using intelligent systems that can learn, adapt, and generate value over time.</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kadlaeaniketh&label=Profile%20views&color=0e75b6&style=flat" alt="kadlaeaniketh" /> 
